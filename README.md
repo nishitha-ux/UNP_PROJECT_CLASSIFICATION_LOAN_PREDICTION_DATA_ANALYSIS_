@@ -3,4 +3,4 @@ I did this project in collaboration with UNP, where I created a Loan Repayment P
 
 PROJECT PDF FILE : https://drive.google.com/file/d/1PAXDgXmFZk6S5lvJafrGbBJbffV2GVit/view?usp=sharing
 
-PROJECT COLAB FILE : https://colab.research.google.com/drive/1JxHavuTmi6Zw9JmzoQOqZ-jMlHXFUZNl?usp=sharing
+PROJECT COLAB FILE : https://colab.research.google.com/drive/1JxHavuTmi6Zw9JmzoQOqZ-jMlHXFUZNl?usp=drive_link
